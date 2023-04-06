@@ -35,7 +35,7 @@ _Before running the sample app, please ensure that you have registered on our AP
 
 
 ## How to Run Backend Side
-1. Clone repository in [github.com/xxx](github.com/xxx)
+1. Clone repository in [portal-live-code](https://github.com/bniportal/portal-live-code)
 2. Go to folder backend
 3. Open .env file in and change below records with your keys
 
